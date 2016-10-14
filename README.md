@@ -3,6 +3,8 @@
 ### @ManBearPigCode
 October 13, 2016
 
+Shake select HTML elements on hover.
+
 Dependencies: jQuery
 Important note: elements must display block or inline-block.
 
