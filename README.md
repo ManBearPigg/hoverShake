@@ -16,4 +16,5 @@ for an average speed.
 
 Third parameter is an integer representing the number of degrees
 the element will oscillate. Start with 1 for average shake.
+
 An example of a call to hoverShake: hoverShake('myImg', 100, 1);
