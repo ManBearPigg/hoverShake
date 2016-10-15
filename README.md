@@ -1,12 +1,13 @@
 # Hover Shake
-  
-### @ManBearPigCode
+
+### @ManBearPigCode <br />
 October 13, 2016
 
-Shake select HTML elements on hover.
+
+Shake select HTML elements on hover. <br />
 https://youtu.be/UuQkzABj2yw
 
-Dependencies: jQuery
+Dependencies: jQuery <br />
 Important note: elements must display block or inline-block.
 
 ### Function parameters
@@ -21,3 +22,4 @@ Third parameter is an integer representing the number of degrees
 the element will oscillate. Start with 1 for average shake.
 
 An example of a call to hoverShake: hoverShake('myImg', 100, 1);
+</div>
