@@ -4,6 +4,7 @@
 October 13, 2016
 
 Shake select HTML elements on hover.
+https://youtu.be/pWt5PLtQPAw
 
 Dependencies: jQuery
 Important note: elements must display block or inline-block.
